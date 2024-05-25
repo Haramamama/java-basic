@@ -73,10 +73,10 @@ public class ClassStart3_1 {
         * 객체 (Object)
         * - 객체는 클래스에서 정의한 속성과 기능을 가진 실체이다.
         * - 객체는 서로 독립적인 상태를 가진다.
-        * -  student1 과 student2 는 같은 클래스에서 만들어졌지만, 서로 다른 객체이다.
+        * - student1 과 student2 는 같은 클래스에서 만들어졌지만, 서로 다른 객체이다.
         * 인스턴스 (Instance)
         * - 인스턴스는 특정 클래스로부터 생성된 객체를 의미한다.
-        * -  예를 들어서 student1 객체는 Student 클래스의 인스턴스라고 표현한다.
+        * - 예를 들어서 student1 객체는 Student 클래스의 인스턴스라고 표현한다.
         * 객체 vs 인스턴스
         * - student1 은 객체이지만, 이 객체가 Student 클래스로부터 생성되었다는 점을 명확히 하기 위해
         *   student1 을 Student 의 인스턴스라고 부른다
